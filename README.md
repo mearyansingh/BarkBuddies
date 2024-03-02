@@ -4,7 +4,7 @@
 BarkBuddies is a single-page web application that allows users to meet new and interesting dogs nearby. Find furry friends and connect with fellow dog lovers in your area.
 
 ## Demo
-Visit the [BarkBuddies Demo](https://mearyansingh.github.io/barkbuddies) to explore the app.
+Visit the [BarkBuddies Demo](https://mearyansingh.github.io/BarkBuddies/) to explore the app.
 
 ![BarkBuddies Screenshot](/images/og-img.png)
 
@@ -19,7 +19,7 @@ Visit the [BarkBuddies Demo](https://mearyansingh.github.io/barkbuddies) to expl
 
 ## Setup Locally
 To run BarkBuddies locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/mearyansingh/barkbuddies.git`
+1. Clone the repository: `git clone https://github.com/mearyansingh/BarkBuddies.git`
 2. Open `index.html` in your preferred browser.
 
 ## Contributing
